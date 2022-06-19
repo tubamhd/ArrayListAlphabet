@@ -1,7 +1,6 @@
 public class ArrayListAlphabet {
     public static void main(String[] args) {
         String [][] letter = new String[7][4];
-        String [][] firstline
 
 
         for (int i = 0; i < letter.length; i++){
